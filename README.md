@@ -19,19 +19,3 @@ yarn build
 ```
 yarn lint
 ```
-
-## Import to existing project using yalc
-https://github.com/wclr/yalc
-```
-yarn global add yalc
-```
-
-In shudan-for-vue root folder run:
-```
-yalc publish
-```
-
-In the project using this dependency run:
-```
-yalc add shudan-for-vue
-```
