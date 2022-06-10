@@ -1,4 +1,4 @@
-# shudan-for-vue
+# vue-shudan
 
 A Vue transpilation of the preact project https://github.com/SabakiHQ/Shudan
 
