@@ -1,6 +1,6 @@
 {
   "name": "vue-shudan",
-  "version": "0.2.0-alpha.4",
+  "version": "0.2.0-alpha.5",
   "private": false,
   "scripts": {
     "build": "vue-cli-service build",
@@ -26,7 +26,7 @@
     "@vue/eslint-config-prettier": "^6.0.0",
     "@vue/eslint-config-typescript": "^7.0.0",
     "babel-eslint": "^10.1.0",
-    "eslint": "^6.7.2",
+    "eslint": "^7.0.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-vue": "^7.0.0",
