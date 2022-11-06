@@ -10,7 +10,10 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
-  "main": "./src/main.ts",
+  "main": "dist/index.html",
+  "files": [
+    "dist"    
+  ],
   "dependencies": {
     "@juggle/resize-observer": "^3.3.1",
     "@types/lodash": "^4.14.177",
